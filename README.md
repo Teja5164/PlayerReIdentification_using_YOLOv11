@@ -19,8 +19,8 @@ Given a 15-second sports video, the task is to:
 
 1. **Clone the repository and navigate to the folder:**
    ```bash
-   git clone https://github.com/Teja5164/player-reid-yolov11.git
-   cd player-reid-yolov11
+   git clone https://github.com/Teja5164/PlayerReIdentification_using_YOLOv11.git
+   cd PlayerReIdentification_using_YOLOv11
 2. **Install required libraries:
     You can install all dependencies using pip:
    ```bash
