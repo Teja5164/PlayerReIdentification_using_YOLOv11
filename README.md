@@ -89,6 +89,13 @@ For full methodology, tools used, problems encountered, and future scope — ref
 
 ---
 
+## 📌 Note
+If you're unable to open the `.ipynb` notebook on GitHub due to file size:
+- Open it in **Google Colab** or **Kaggle**
+- Or download it from the Drive link above
+
+---
+
 ## 👤 Author
 
 **N R Teja Prakash**    
