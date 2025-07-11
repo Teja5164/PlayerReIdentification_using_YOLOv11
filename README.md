@@ -87,8 +87,7 @@ For full methodology, tools used, problems encountered, and future scope — ref
 
 ## 👤 Author
 
-**N R Teja Prakash**  
-Candidate for AI Intern Role  
+**N R Teja Prakash**    
 - 🔗 [LinkedIn](https://www.linkedin.com/in/teja-prakash-0b49a830b)  
 - 💻 [GitHub](https://github.com/Teja5164)  
 - ✉️ [Email](mailto:tejaprakash5164@gmail.com)
