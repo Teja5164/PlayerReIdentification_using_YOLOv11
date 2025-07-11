@@ -79,7 +79,11 @@ Final output video: output_video_with_audio.mp4
 
 ---
 
-## Report
+## 🔗 Resources  
+- **Input Video**: [15sec_input_720p.mp4](https://drive.google.com/file/d/.../view?usp=drive_link)  
+- **YOLOv11 Model**: [Download (.pt)](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)  
+- **Output Video**: [output.mp4](https://drive.google.com/file/d/.../view?usp=drive_link)  
+- **Complete Folder**: [Google Drive](https://drive.google.com/drive/folders/11rABaiWY4f3L6cHcuCh7t03RWE1IhpC7)  
 
 For full methodology, tools used, problems encountered, and future scope — refer to the Project Report (PDF).
 
